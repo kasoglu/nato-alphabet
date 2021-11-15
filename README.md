@@ -9,7 +9,7 @@ The NATO phonetic alphabet is useful to prevent spelling mistakes or miscommunic
 # Installing
 Download the [Python 3](https://python.org) installer package from the official website and install it, if not installed previously.
 
-Run the following in the terminal to install the Turtle module.
+Run the following in the terminal to install the Pandas module.
 
 ```
 pip install pandas
@@ -29,5 +29,5 @@ It becomes you a list of created with Phonetic Alphabet.
 
 # Documentations
 
-* [Nato Phonetic Alphabet](https://www.nato.int/cps/en/natohq/news_150391.htm)
+* [Tkinter Docs](https://docs.python.org/3/library/tkinter.html)
 * [Wikipedia](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
